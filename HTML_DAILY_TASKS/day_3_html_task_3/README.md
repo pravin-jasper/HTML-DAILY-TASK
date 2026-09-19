@@ -44,13 +44,13 @@ Mobile No.	Enter your mobile number
 Payment Amount	Enter the payment amount
 Bank Account	Select a bank account
 ---
-🚀 How to Run
+# How to Run
 Download or clone this repository.
 Open the project folder.
 Open `index.html` in a web browser.
 The Credit Card Application Form will be displayed.
 ---
-🎯 Purpose of the Project
+# Purpose of the Project
 This project was created to practice basic HTML concepts, including:
 HTML page structure
 Forms
