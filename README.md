@@ -50,9 +50,7 @@ Basic HTML practice including:
 * Basic HTML structure
 * Additional page using `hugma.html`
 
-### Day 1 Output
 
-![Day 1 Output](HTML_DAILY_TASKS/day_1_html_task_1/output_screenshot.png)
 
 ---
 
@@ -68,9 +66,7 @@ HTML form practice including:
 * Time
 * Submit button
 
-### Day 2 Output
 
-![Day 2 Output](HTML_DAILY_TASKS/day_2_html_task_2/output_screenshot.png)
 
 ---
 
@@ -85,9 +81,7 @@ Bank payment application form including:
 * Dropdown/select options
 * Submit button
 
-### Day 3 Output
 
-![Day 3 Output](HTML_DAILY_TASKS/day_3_html_task_3/output_screenshot.png)
 
 ---
 
@@ -104,9 +98,7 @@ NEFT bank transfer page including:
 * Beneficiary information
 * Bank transfer tables
 
-### Day 4 Output
 
-![Day 4 Output](HTML_DAILY_TASKS/day_4_html_task_4/output_screenshot.png)
 
 ---
 
@@ -124,9 +116,7 @@ It includes:
 * Links
 * Basic HTML page structure
 
-### Final Project Output
 
-![Final Project Output](HTML_DAILY_TASKS/html_final_project/output_screenshot.png)
 
 ---
 
